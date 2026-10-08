@@ -1,0 +1,17 @@
+QGIS Version: 4.0.0-Norrköping
+Python Version: 3.12.13
+Date Recorded: 2026-09-24
+
+GeoAgent / OpenGeoAgent: Installed QGIS plugin
+LLM Backend: Ollama
+Ollama Version: 0.34.3
+Model: llama3.1:8b
+Model Quantization:Q4_K_M
+Ollama Host: http://127.0.0.1:11434
+OpenGeoAgent Agent Mode: General QGIS
+OpenGeoAgent Permissions: Inspect only
+OpenGeoAgent Fast Mode: Enabled
+OpenGeoAgent Max Tokens: 16384
+Toy Prompt 1: Successful
+Toy Prompt 2: Successful
+Date Verified: 2026-10-01

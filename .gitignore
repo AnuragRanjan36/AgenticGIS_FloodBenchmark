@@ -1,0 +1,22 @@
+# GeoAgent reference/install folders
+environment/GeoAgent-main/
+environment/GeoAgent-git/
+
+# Git installer accidentally placed in project root
+Git-2.56.0-64-bit.exe
+
+# QGIS temporary/lock files
+*.qgs~
+*.qgz~
+*.lock
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store
+# Large/raw geospatial datasets
+data/
+reference/AGENTIC AND AUTONOMOUS/DEM/
